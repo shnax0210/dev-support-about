@@ -1,3 +1,3 @@
-# Def support menu
+# Def support about section
 
-Micro frontend that suppose to hold other micro frontends and provide navigation to them.
+Micro frontend that provides base information about dev support project.
